@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MSIT_client/static/css/main.76483df1.chunk.css",
-    "main.js": "/MSIT_client/static/js/main.f89c8eab.chunk.js",
-    "main.js.map": "/MSIT_client/static/js/main.f89c8eab.chunk.js.map",
+    "main.js": "/MSIT_client/static/js/main.bfc54ebb.chunk.js",
+    "main.js.map": "/MSIT_client/static/js/main.bfc54ebb.chunk.js.map",
     "runtime-main.js": "/MSIT_client/static/js/runtime-main.e7057859.js",
     "runtime-main.js.map": "/MSIT_client/static/js/runtime-main.e7057859.js.map",
     "static/js/2.ca2859fc.chunk.js": "/MSIT_client/static/js/2.ca2859fc.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.e7057859.js",
     "static/js/2.ca2859fc.chunk.js",
     "static/css/main.76483df1.chunk.css",
-    "static/js/main.f89c8eab.chunk.js"
+    "static/js/main.bfc54ebb.chunk.js"
   ]
 }
