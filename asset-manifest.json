@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MSIT_client/static/css/main.76483df1.chunk.css",
-    "main.js": "/MSIT_client/static/js/main.bfc54ebb.chunk.js",
-    "main.js.map": "/MSIT_client/static/js/main.bfc54ebb.chunk.js.map",
-    "runtime-main.js": "/MSIT_client/static/js/runtime-main.e7057859.js",
-    "runtime-main.js.map": "/MSIT_client/static/js/runtime-main.e7057859.js.map",
-    "static/js/2.ca2859fc.chunk.js": "/MSIT_client/static/js/2.ca2859fc.chunk.js",
-    "static/js/2.ca2859fc.chunk.js.map": "/MSIT_client/static/js/2.ca2859fc.chunk.js.map",
-    "static/js/3.65345e89.chunk.js": "/MSIT_client/static/js/3.65345e89.chunk.js",
-    "static/js/3.65345e89.chunk.js.map": "/MSIT_client/static/js/3.65345e89.chunk.js.map",
+    "main.css": "/MSIT_client/static/css/main.1808949b.chunk.css",
+    "main.js": "/MSIT_client/static/js/main.a07fdd3f.chunk.js",
+    "main.js.map": "/MSIT_client/static/js/main.a07fdd3f.chunk.js.map",
+    "runtime-main.js": "/MSIT_client/static/js/runtime-main.ebbe3723.js",
+    "runtime-main.js.map": "/MSIT_client/static/js/runtime-main.ebbe3723.js.map",
+    "static/js/2.bb39cd3a.chunk.js": "/MSIT_client/static/js/2.bb39cd3a.chunk.js",
+    "static/js/2.bb39cd3a.chunk.js.map": "/MSIT_client/static/js/2.bb39cd3a.chunk.js.map",
+    "static/js/3.66e7d1e9.chunk.js": "/MSIT_client/static/js/3.66e7d1e9.chunk.js",
+    "static/js/3.66e7d1e9.chunk.js.map": "/MSIT_client/static/js/3.66e7d1e9.chunk.js.map",
     "index.html": "/MSIT_client/index.html",
-    "static/css/main.76483df1.chunk.css.map": "/MSIT_client/static/css/main.76483df1.chunk.css.map",
-    "static/js/2.ca2859fc.chunk.js.LICENSE.txt": "/MSIT_client/static/js/2.ca2859fc.chunk.js.LICENSE.txt",
+    "static/css/main.1808949b.chunk.css.map": "/MSIT_client/static/css/main.1808949b.chunk.css.map",
+    "static/js/2.bb39cd3a.chunk.js.LICENSE.txt": "/MSIT_client/static/js/2.bb39cd3a.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/MSIT_client/static/media/EuclidFlex-Regular.42d86a0b.ttf",
     "static/media/about-us.c76cbc40.svg": "/MSIT_client/static/media/about-us.c76cbc40.svg",
     "static/media/computer.7bd0fb10.png": "/MSIT_client/static/media/computer.7bd0fb10.png",
@@ -26,9 +26,9 @@
     "static/media/web-development.1a11ca6b.png": "/MSIT_client/static/media/web-development.1a11ca6b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7057859.js",
-    "static/js/2.ca2859fc.chunk.js",
-    "static/css/main.76483df1.chunk.css",
-    "static/js/main.bfc54ebb.chunk.js"
+    "static/js/runtime-main.ebbe3723.js",
+    "static/js/2.bb39cd3a.chunk.js",
+    "static/css/main.1808949b.chunk.css",
+    "static/js/main.a07fdd3f.chunk.js"
   ]
 }
