@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/MSIT_client/static/css/main.37a7affc.chunk.css",
-    "main.js": "/MSIT_client/static/js/main.6b062b90.chunk.js",
-    "main.js.map": "/MSIT_client/static/js/main.6b062b90.chunk.js.map",
+    "main.css": "/MSIT_client/static/css/main.6760f9d4.chunk.css",
+    "main.js": "/MSIT_client/static/js/main.f117ab85.chunk.js",
+    "main.js.map": "/MSIT_client/static/js/main.f117ab85.chunk.js.map",
     "runtime-main.js": "/MSIT_client/static/js/runtime-main.ebbe3723.js",
     "runtime-main.js.map": "/MSIT_client/static/js/runtime-main.ebbe3723.js.map",
     "static/js/2.3237b93a.chunk.js": "/MSIT_client/static/js/2.3237b93a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.66e7d1e9.chunk.js": "/MSIT_client/static/js/3.66e7d1e9.chunk.js",
     "static/js/3.66e7d1e9.chunk.js.map": "/MSIT_client/static/js/3.66e7d1e9.chunk.js.map",
     "index.html": "/MSIT_client/index.html",
-    "static/css/main.37a7affc.chunk.css.map": "/MSIT_client/static/css/main.37a7affc.chunk.css.map",
+    "static/css/main.6760f9d4.chunk.css.map": "/MSIT_client/static/css/main.6760f9d4.chunk.css.map",
     "static/js/2.3237b93a.chunk.js.LICENSE.txt": "/MSIT_client/static/js/2.3237b93a.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/MSIT_client/static/media/EuclidFlex-Regular.42d86a0b.ttf",
     "static/media/about-us.c76cbc40.svg": "/MSIT_client/static/media/about-us.c76cbc40.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.ebbe3723.js",
     "static/js/2.3237b93a.chunk.js",
-    "static/css/main.37a7affc.chunk.css",
-    "static/js/main.6b062b90.chunk.js"
+    "static/css/main.6760f9d4.chunk.css",
+    "static/js/main.f117ab85.chunk.js"
   ]
 }
