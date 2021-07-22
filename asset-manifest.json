@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/MSIT_client/static/css/main.6760f9d4.chunk.css",
-    "main.js": "/MSIT_client/static/js/main.f117ab85.chunk.js",
-    "main.js.map": "/MSIT_client/static/js/main.f117ab85.chunk.js.map",
-    "runtime-main.js": "/MSIT_client/static/js/runtime-main.ebbe3723.js",
-    "runtime-main.js.map": "/MSIT_client/static/js/runtime-main.ebbe3723.js.map",
-    "static/js/2.3237b93a.chunk.js": "/MSIT_client/static/js/2.3237b93a.chunk.js",
-    "static/js/2.3237b93a.chunk.js.map": "/MSIT_client/static/js/2.3237b93a.chunk.js.map",
-    "static/js/3.66e7d1e9.chunk.js": "/MSIT_client/static/js/3.66e7d1e9.chunk.js",
-    "static/js/3.66e7d1e9.chunk.js.map": "/MSIT_client/static/js/3.66e7d1e9.chunk.js.map",
+    "main.css": "/MSIT_client/static/css/main.1f9d5768.chunk.css",
+    "main.js": "/MSIT_client/static/js/main.8ac3473d.chunk.js",
+    "main.js.map": "/MSIT_client/static/js/main.8ac3473d.chunk.js.map",
+    "runtime-main.js": "/MSIT_client/static/js/runtime-main.45d5112c.js",
+    "runtime-main.js.map": "/MSIT_client/static/js/runtime-main.45d5112c.js.map",
+    "static/js/2.84dcb9df.chunk.js": "/MSIT_client/static/js/2.84dcb9df.chunk.js",
+    "static/js/2.84dcb9df.chunk.js.map": "/MSIT_client/static/js/2.84dcb9df.chunk.js.map",
+    "static/js/3.327e023d.chunk.js": "/MSIT_client/static/js/3.327e023d.chunk.js",
+    "static/js/3.327e023d.chunk.js.map": "/MSIT_client/static/js/3.327e023d.chunk.js.map",
     "index.html": "/MSIT_client/index.html",
-    "static/css/main.6760f9d4.chunk.css.map": "/MSIT_client/static/css/main.6760f9d4.chunk.css.map",
-    "static/js/2.3237b93a.chunk.js.LICENSE.txt": "/MSIT_client/static/js/2.3237b93a.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/MSIT_client/static/media/EuclidFlex-Regular.42d86a0b.ttf",
+    "static/css/main.1f9d5768.chunk.css.map": "/MSIT_client/static/css/main.1f9d5768.chunk.css.map",
+    "static/js/2.84dcb9df.chunk.js.LICENSE.txt": "/MSIT_client/static/js/2.84dcb9df.chunk.js.LICENSE.txt",
     "static/media/about-us.c76cbc40.svg": "/MSIT_client/static/media/about-us.c76cbc40.svg",
+    "static/media/certificate.2ceb8e34.svg": "/MSIT_client/static/media/certificate.2ceb8e34.svg",
+    "static/media/clipboard-list-outline.200edccb.svg": "/MSIT_client/static/media/clipboard-list-outline.200edccb.svg",
     "static/media/computer.7bd0fb10.png": "/MSIT_client/static/media/computer.7bd0fb10.png",
     "static/media/facebook.8d5fdeca.svg": "/MSIT_client/static/media/facebook.8d5fdeca.svg",
     "static/media/instagram.7fc9f580.svg": "/MSIT_client/static/media/instagram.7fc9f580.svg",
@@ -26,9 +27,9 @@
     "static/media/web-development.1a11ca6b.png": "/MSIT_client/static/media/web-development.1a11ca6b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebbe3723.js",
-    "static/js/2.3237b93a.chunk.js",
-    "static/css/main.6760f9d4.chunk.css",
-    "static/js/main.f117ab85.chunk.js"
+    "static/js/runtime-main.45d5112c.js",
+    "static/js/2.84dcb9df.chunk.js",
+    "static/css/main.1f9d5768.chunk.css",
+    "static/js/main.8ac3473d.chunk.js"
   ]
 }
