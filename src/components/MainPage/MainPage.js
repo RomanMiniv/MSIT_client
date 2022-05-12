@@ -34,7 +34,7 @@ const MainPage = () => {
 		<div className='main-page'>
 			<div className='school-animation'>
 				<video autoPlay loop pleload='auto' muted className='a'>
-					<source src="/animations/school-animation.mp4" type="video/mp4" />
+					<source src={`/MSIT_client/animations/school-animation.mp4`} type="video/mp4" />
 				</video>
 				{/* <img src={school} className='a' /> */}
 			</div>
