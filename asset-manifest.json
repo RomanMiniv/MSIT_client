@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MSIT_client/static/css/main.79f83017.chunk.css",
-    "main.js": "/MSIT_client/static/js/main.f21b8bee.chunk.js",
-    "main.js.map": "/MSIT_client/static/js/main.f21b8bee.chunk.js.map",
+    "main.css": "/MSIT_client/static/css/main.d1257fa0.chunk.css",
+    "main.js": "/MSIT_client/static/js/main.2ed6ad06.chunk.js",
+    "main.js.map": "/MSIT_client/static/js/main.2ed6ad06.chunk.js.map",
     "runtime-main.js": "/MSIT_client/static/js/runtime-main.6e3e7ca8.js",
     "runtime-main.js.map": "/MSIT_client/static/js/runtime-main.6e3e7ca8.js.map",
     "static/css/2.ec02d681.chunk.css": "/MSIT_client/static/css/2.ec02d681.chunk.css",
-    "static/js/2.2f032738.chunk.js": "/MSIT_client/static/js/2.2f032738.chunk.js",
-    "static/js/2.2f032738.chunk.js.map": "/MSIT_client/static/js/2.2f032738.chunk.js.map",
+    "static/js/2.039c911b.chunk.js": "/MSIT_client/static/js/2.039c911b.chunk.js",
+    "static/js/2.039c911b.chunk.js.map": "/MSIT_client/static/js/2.039c911b.chunk.js.map",
     "static/js/3.da0d7829.chunk.js": "/MSIT_client/static/js/3.da0d7829.chunk.js",
     "static/js/3.da0d7829.chunk.js.map": "/MSIT_client/static/js/3.da0d7829.chunk.js.map",
     "index.html": "/MSIT_client/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/MSIT_client/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.79f83017.chunk.css.map": "/MSIT_client/static/css/main.79f83017.chunk.css.map",
-    "static/js/2.2f032738.chunk.js.LICENSE.txt": "/MSIT_client/static/js/2.2f032738.chunk.js.LICENSE.txt",
+    "static/css/main.d1257fa0.chunk.css.map": "/MSIT_client/static/css/main.d1257fa0.chunk.css.map",
+    "static/js/2.039c911b.chunk.js.LICENSE.txt": "/MSIT_client/static/js/2.039c911b.chunk.js.LICENSE.txt",
     "static/media/about-us.c76cbc40.svg": "/MSIT_client/static/media/about-us.c76cbc40.svg",
     "static/media/about.3221e780.png": "/MSIT_client/static/media/about.3221e780.png",
     "static/media/certificate.2ceb8e34.svg": "/MSIT_client/static/media/certificate.2ceb8e34.svg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.6e3e7ca8.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.2f032738.chunk.js",
-    "static/css/main.79f83017.chunk.css",
-    "static/js/main.f21b8bee.chunk.js"
+    "static/js/2.039c911b.chunk.js",
+    "static/css/main.d1257fa0.chunk.css",
+    "static/js/main.2ed6ad06.chunk.js"
   ]
 }
