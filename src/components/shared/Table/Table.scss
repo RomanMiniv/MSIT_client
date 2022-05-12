@@ -1,0 +1,47 @@
+@import '../../../styles/variables.scss';
+
+.table {
+    width: 1000px;
+    line-height: 1.8em;
+    margin-bottom: 50px;
+    
+    .head {
+        height: 150px;
+        background-color: #353744;
+        color: $white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: uppercase;
+        line-height: 1.8em;
+
+        img {
+            width: 48px;
+            height: auto;
+            margin-right: 15px;
+        }
+
+        .title {
+            font-size: 36px;
+        }
+    }
+
+    .body {
+        padding: 50px 20px 20px;
+        background-color: #2d2f3a;
+
+        .item {
+            width: 33%;
+            padding: 0 40px;
+            vertical-align: top;
+
+            .content {
+                padding-bottom: 2em;
+
+                .item-title {
+                    color: $red       
+                }
+            }
+        }
+    }
+}

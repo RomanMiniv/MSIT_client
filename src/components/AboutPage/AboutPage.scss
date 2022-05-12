@@ -1,0 +1,38 @@
+@import '../../styles/variables.scss';
+
+.about-page {
+    font-family: $main-font;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    color: $white;
+    position: relative;
+    // To Do: how move dynamic bg as not z-index: -1 but as real bg
+    opacity: .9999;
+
+    .about-animation {
+        position: relative;
+
+        video {
+            width: 100%;
+        }
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .introduction {
+        height: 100vh;
+    }
+
+    .btn-enter {
+        margin: 50px 0 150px;
+    }
+
+    .additional-text {
+        margin-bottom: 0;
+    }
+}

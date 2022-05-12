@@ -1,0 +1,27 @@
+@import '../../../styles/variables.scss';
+
+.introduction {
+    position: absolute;
+    top: 50px;
+    left: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+    .content {
+        width: 700px;
+        box-sizing: border-box;
+
+        h1 {
+            font-size: 50px;
+            font-weight: 100;
+            color: $red;
+            text-transform: uppercase;
+        }
+
+        p {
+            line-height: 1.8em;
+            padding-top: 38px;
+        }
+    }
+}

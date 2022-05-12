@@ -1,0 +1,78 @@
+@import '../../../styles/variables.scss';
+
+.swal2-popup {
+    width: 70%;
+    background-color: $background-color;
+}
+
+.swal2-close {
+    &:hover {        
+        color: $red;
+    }
+    &:focus {
+        box-shadow: none;
+    }
+}
+
+.swal2-styled.swal2-confirm {
+    background-color: $red;
+    font-family: $main-font;
+}
+
+.swal2-input,
+.swal2-textarea {
+    border-color: $white;
+    color: $white;
+    font-family: $main-font;
+}
+
+.swal2-input:focus,
+.swal2-textarea:focus {
+    box-shadow: none;
+    border-color: red;
+}
+
+.swal2-textarea {
+    resize: none;
+}
+
+.swal2-input::placeholder,
+.swal2-textarea::placeholder {
+    color: $white;
+}
+
+.swal2-validation-message {
+    font-family: $main-font;
+}
+
+.swal2-title {
+    color: $white;
+    font-family: $main-font;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+// icon-success
+.swal2-icon.swal2-success {
+    border-color: $red !important;
+}
+.swal2-success-line-tip {
+    background-color: $red !important;
+}
+.swal2-success-line-long {
+    background-color: $red !important;
+}
+.swal2-success-ring {
+    border-color: rgba(193,35,42,.3) !important;
+}
+
+// icon-error
+.swal2-icon.swal2-error {
+    border-color: $red !important;
+}
+.swal2-x-mark-line-left {
+    background-color: $red !important;
+}
+.swal2-x-mark-line-right {
+    background-color: $red !important;
+}

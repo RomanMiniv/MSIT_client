@@ -1,0 +1,108 @@
+@import '../../../styles/variables.scss';
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    right: 36px;
+    top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+    background-color: $red;
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+    background-color: #fff;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+    height: 24px;
+    width: 24px;    
+}
+
+.bm-cross-button:hover .bm-cross {
+    background-color: $red;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+    background: #bdc3c7;   
+}
+
+/*
+    Sidebar wrapper styles
+    Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+    // To Do: delete commented code
+    // background: $background-color;
+    background: #222;
+    padding: 2.5em 1.5em 0;
+    // To Do: 'em' or 'px'
+    // font-size: 1.1em;
+    width: 100%;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+    // To Do: delete commented code
+    // fill: $background-color;
+    fill: #222;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+    color: #b8b7ad;
+}
+
+/* Individual item */
+.bm-item {
+    display: inline-block;
+    color: $white;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 1em;
+    font-size: 18px;
+
+    &:hover:not(.sub-title) {
+        color: $red
+    }
+    &:hover:not(.sub-title) img {
+        filter: invert(100%);
+    }
+    
+    img {
+        width: 28px;
+        height: auto;
+        vertical-align: middle;
+        margin-right: 15px;
+    }
+}
+
+.sub-title {
+    // To Do: skip using keyboard navigation
+    
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+/* Styling of overlay */
+.bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+}
